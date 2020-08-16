@@ -1566,3 +1566,23 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.button2 {
+  background: #eceefe;
+  color: #2d405f;
+  display: inline-block;
+  padding: 10px 40px 12px 40px;
+  border-radius: 5px;
+  transition: none;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Krub", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+ 
+}
+
+.button2:hover {
+  background: #2d405f;
+  color: #fff;
+}
