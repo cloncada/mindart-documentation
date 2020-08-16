@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+
 
 Template Name: Bikin
 Template URL: https://bootstrapmade.com/bikin-free-simple-landing-page-template/
